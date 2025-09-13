@@ -1,0 +1,1 @@
+This datapack makes diamond ores (stone and deepslate) run away to a neighboring block whenever a player looks at the ore. Every tick there's a 1/32 chance that a player casts a ray that moves a diamond ore block to a neighboring block. The only way to be sure you can mine a diamond ore is to mine all surrounding deepslate/stone blocks.
